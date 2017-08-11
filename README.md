@@ -1,3 +1,3 @@
 # hello-world
-a repository for practising
+a repository for practising.
 Done so
